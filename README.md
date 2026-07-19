@@ -1,10 +1,18 @@
-# Skyson Shop
+<h1 align="center">Skyson Shop</h1>
 
-An e-commerce platform with a Python backend and modern, responsive UI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-## Overview
+<p align="center">
+  <em>An e-commerce platform with Python backend and modern, responsive UI</em>
+</p>
 
-A full-featured online shop application featuring product browsing, cart management, and a clean shopping experience powered by Python.
+---
 
 ## Features
 
@@ -13,14 +21,6 @@ A full-featured online shop application featuring product browsing, cart managem
 - User registration & authentication
 - Order management
 - Responsive product pages
-- Clean, modern UI
-
-## Tech Stack
-
-- **Python** — Backend & business logic
-- **HTML** — Page templates
-- **CSS** — Styling & responsive design
-- **JavaScript** — Client-side interactivity
 
 ## Getting Started
 
